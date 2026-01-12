@@ -1,0 +1,5 @@
+Repository Description:
+Official Crawlab & CapSolver integration. Solve reCAPTCHA & Turnstile for distributed web crawling systems.
+
+Repository Tags:
+crawlab, capsolver, captcha-solver, web-scraping, distributed-crawling, recaptcha, turnstile, selenium, scrapy, puppeteer
